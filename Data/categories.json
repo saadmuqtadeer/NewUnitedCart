@@ -1,0 +1,22 @@
+[
+    {
+        "_id": 1,
+        "name": "Cake Toppers",
+        "slug": "cake-toppers"
+    },
+    {
+        "_id": 2,
+        "name": "Islamic Wall Decor",
+        "slug": "islamic-wall-decor"
+    },
+    {
+        "_id": 3,
+        "name": "Neon Signs",
+        "slug": "neon-signs"
+    },
+    {
+        "_id": 4,
+        "name": "Wall Decor",
+        "slug": "wall-decor"
+    }
+]

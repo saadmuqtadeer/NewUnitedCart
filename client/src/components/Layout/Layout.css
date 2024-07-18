@@ -1,0 +1,74 @@
+/* Layout.css */
+
+.layout-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin-bottom: 10px;
+  }
+  
+  .main-content {
+    flex: 1;
+  }
+  
+  /* Responsive design for About, Contact, and Policy components */
+  .contactus {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contactus .col-md-6,
+  .contactus .col-md-4 {
+    flex: 1 1 100%;
+    max-width: 100%;
+    padding: 1rem;
+  }
+  
+  .contactus .col-md-6 img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .contactus h1 {
+    font-size: 1.5rem;
+  }
+  
+  .privacy-content ul {
+    padding-left: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    .contactus .col-md-6,
+    .contactus .col-md-4 {
+      flex: 1 1 45%;
+      max-width: 45%;
+    }
+  
+    .contactus h1 {
+      font-size: 2rem;
+    }
+  }
+  
+  
+  
+  
+  footer {
+    color: white;
+    padding: 25px;
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    background: linear-gradient(to right, #434343, #000000);
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  }
+  
+  .footer a:hover {
+    color: #ffefba;
+    border-bottom: 1px solid #ffefba;
+  }

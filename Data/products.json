@@ -1,0 +1,108 @@
+[
+    {
+        "_id": 1,
+        "name": "Happy Anniversary",
+        "slug": "Happy-Anniversary",
+        "description": "Happy Anniversary Silver Cake topper",
+        "price": 100,
+        "category": 1,
+        "quantity": 1,
+        "photo": "",
+        "images": [],
+        "shipping": true
+    },
+    {
+        "_id": 2,
+        "name": "Aytalkursi Wall Decor",
+        "slug": "Aytalkursi-Wall-Decor",
+        "description": "Islamic Wall Decor Ayatulkursi.....",
+        "price": 5000,
+        "category": 2,
+        "quantity": 1,
+        "photo": "photo2.jpg",
+        "images": [
+            ""
+        ],
+        "shipping": true
+    },
+    {
+        "_id": 3,
+        "name": "Wall Decor Lion",
+        "slug": "Wall-Decor-Lion",
+        "description": "Lion Wall Decor",
+        "price": 1200,
+        "category": 4,
+        "quantity": 1,
+        "photo": "photo3.jpg",
+        "images": [],
+        "shipping": true
+    },
+    {
+        "_id": 4,
+        "name": "Lion Wall Decor 1",
+        "slug": "Lion-Wall-Decor-1",
+        "description": "Lion wall decor>>>>....",
+        "price": 1200,
+        "category": 4,
+        "quantity": 1,
+        "photo": "photo4.jpg",
+        "images": [
+            "image1.jpg"
+        ],
+        "shipping": true
+    },
+    {
+        "_id": 5,
+        "name": "WOLF Wall Decor",
+        "slug": "WOLF-Wall-Decor",
+        "description": "WOLF Wall Decor.....",
+        "price": 1500,
+        "category": 4,
+        "quantity": 1,
+        "photo": "photo5.jpg",
+        "images": [
+            "image2.jpg"
+        ],
+        "shipping": true
+    },
+    {
+        "_id": 6,
+        "name": "Horse Wall Decor",
+        "slug": "Horse-Wall-Decor",
+        "description": "7 Horse Wall Decor.....",
+        "price": 2000,
+        "category": 4,
+        "quantity": 1,
+        "photo": "photo6.jpg",
+        "images": [],
+        "shipping": true
+    },
+    {
+        "_id": 7,
+        "name": "Nikah Mubarak",
+        "slug": "Nikah-Mubarak",
+        "description": "Nikah Mubarak Topeper",
+        "price": 500,
+        "category": 1,
+        "quantity": 1,
+        "photo": "photo7.jpg",
+        "images": [
+            "image3.jpg"
+        ],
+        "shipping": true
+    },
+    {
+        "_id": 8,
+        "name": "Mr And Mr's Cake Topper",
+        "slug": "mr-and-mrs-cake-topper",
+        "description": "Mr And Mr's Cake Topper...",
+        "price": 500,
+        "category": 1,
+        "quantity": 1,
+        "photo": "photo7.jpg",
+        "images": [
+            "C:/Users/saad/OneDrive/Desktop/Projects/UnitedCart/Data/images/Cake_toppers/MR & MRS Gold.jpg"
+        ],
+        "shipping": true
+    }
+]
